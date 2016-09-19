@@ -1,10 +1,10 @@
 #Assignment for Jerry
 This is me learning how to add a readme file to a project on github
 ##Nancy's README
-*Guide to creating readme files
-*Ruby is simple
-*I am learning to code
-*please find my table below
+* Guide to creating readme files
+* Ruby is simple
+* I am learning to code
+* please find my table below
 
 | English students | Maths students|Date|
 | ------------- |:-------------:| -----:|
